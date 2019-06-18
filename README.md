@@ -6,6 +6,102 @@ First paper
 :heavy_check_mark: [Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)
 [[Code]](https://github.com/goodfeli/adversarial)(the First paper of GAN)
 
+# Image Translation
+
+:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
+
+:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
+
+:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
+
+:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
+
+:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
+
+:heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
+
+:heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
+
+:heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
+
+:heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
+
+:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
+
+:heavy_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
+
+:heavy_check_mark: [Toward Multimodal Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
+
+:heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
+
+:heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
+
+:heavy_check_mark: [Everybody Dance Now] [[Paper]](https://arxiv.org/abs/1808.07371)[[Code]](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
+
+:heavy_check_mark: [GestureGAN for Hand Gesture-to-Gesture Translation in the Wild] [[Paper]](https://arxiv.org/abs/1808.04859)[[Code]](https://github.com/Ha0Tang/GestureGAN)
+
+:heavy_check_mark: [Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1811.10666)(CVPR 2019)
+
+:heavy_check_mark: [Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation] [[Paper]](https://arxiv.org/abs/1904.06807)[[Code]](https://github.com/Ha0Tang/SelectionGAN)(CVPR 2019 oral)
+
+## Facial Attribute Manipulation
+
+:heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
+
+:heavy_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
+
+:heavy_check_mark: [Invertible Conditional GANs for image editing] [[Paper]](https://drive.google.com/file/d/0B48XS5sLi1OlRkRIbkZWUmdoQmM/view)[[Code]](https://github.com/Guim3/IcGAN)
+
+:heavy_check_mark: [Learning Residual Images for Face Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1612.05363)[[code]](https://github.com/Zhongdao/FaceAttributeManipulation)(CVPR 2017)
+
+:heavy_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)[[Code]](https://github.com/ajbrock/Neural-Photo-Editor)(ICLR 2017)
+
+:heavy_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
+
+:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)[[code]](https://github.com/Prinsphield/GeneGAN)(BMVC 2017)
+
+:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
+
+:heavy_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
+
+:heavy_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)(CVPR 2018)
+
+:heavy_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
+
+:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
+
+:heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
+
+:heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
+
+:heavy_check_mark: [Geometry Guided Adversarial Facial Expression Synthesis] [[Paper]](https://arxiv.org/abs/1712.03474)(ACMMM 2018)
+
+:heavy_check_mark: [GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1906.00805)[[code]](https://github.com/zhangqianhui/GazeCorrection)
+
+## Generation High-Quality Images
+
+:heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
+
+:heavy_check_mark: [Generative Adversarial Text to Image Synthesis] [[Paper]](https://arxiv.org/abs/1605.05396)[[Code]](https://github.com/reedscot/icml2016)[[code]](https://github.com/paarthneekhara/text-to-image)
+
+:heavy_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
+
+:heavy_check_mark: [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space] [[Paper]](https://arxiv.org/abs/1612.00005v1)[[Code]](https://github.com/Evolving-AI-Lab/ppgn)
+
+:heavy_check_mark: [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1612.03242v1.pdf)[[Code]](https://github.com/hanzhanggit/StackGAN)
+
+:heavy_check_mark: [Improved Training of Wasserstein GANs] [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)
+
+:heavy_check_mark: [Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow] [[Paper]](https://arxiv.org/abs/1703.10717)[[Code]](https://github.com/artcg/BEGAN)
+
+:heavy_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)[[Tensorflow Code]](https://github.com/zhangqianhui/PGGAN-tensorflow)
+
+:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)(NIPS 2018)
+
+:heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(ICLR 2019)
+
+:heavy_check_mark: [A Style-Based Generator Architecture for Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
+
 ## Unclassified
 
 :heavy_check_mark: [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks] [[Paper]](https://arxiv.org/abs/1506.05751)[[Code]](https://github.com/facebook/eyescream)
@@ -68,27 +164,11 @@ First paper
 
 :heavy_check_mark: [Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406.pdf)[[code]](https://github.com/LMescheder/GAN_stability)（ICML 2018）
 
-## Generation High-Quality Images
+:heavy_check_mark: [Self-Supervised Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
 
-:heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
+## Scene Generation
 
-:heavy_check_mark: [Generative Adversarial Text to Image Synthesis] [[Paper]](https://arxiv.org/abs/1605.05396)[[Code]](https://github.com/reedscot/icml2016)[[code]](https://github.com/paarthneekhara/text-to-image)
-
-:heavy_check_mark: [Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
-
-:heavy_check_mark: [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space] [[Paper]](https://arxiv.org/abs/1612.00005v1)[[Code]](https://github.com/Evolving-AI-Lab/ppgn)
-
-:heavy_check_mark: [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1612.03242v1.pdf)[[Code]](https://github.com/hanzhanggit/StackGAN)
-
-:heavy_check_mark: [Improved Training of Wasserstein GANs] [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)
-
-:heavy_check_mark: [Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow] [[Paper]](https://arxiv.org/abs/1703.10717)[[Code]](https://github.com/artcg/BEGAN)
-
-:heavy_check_mark: [Progressive Growing of GANs for Improved Quality, Stability, and Variation] [[Paper]](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)[[Code]](https://github.com/tkarras/progressive_growing_of_gans)[[Tensorflow Code]](https://github.com/zhangqianhui/PGGAN-tensorflow)
-
-:heavy_check_mark: [ Self-Attention Generative Adversarial Networks ] [[Paper]](https://arxiv.org/abs/1805.08318)[[Code]](https://github.com/heykeetae/Self-Attention-GAN)(NIPS 2018)
-
-:heavy_check_mark: [Large Scale GAN Training for High Fidelity Natural Image Synthesis] [[Paper]](https://arxiv.org/abs/1809.11096)(smbmitted to ICLR 2019)
+:heavy_check_mark: [a layer-based sequential framework for scene generation with gans] [[Paper]](https://arxiv.org/abs/1902.00671)[[Code]](https://github.com/0zgur0/Seq_Scene_Gen)(AAAI 2019)
 
 ## Semi-Supervised Learning
 
@@ -130,6 +210,8 @@ First paper
 
 :heavy_check_mark: [Free-Form Image Inpainting with Gated Convolution] [[Paper]](https://arxiv.org/abs/1806.03589)[[Project]](http://jiahuiyu.com/deepfill2)[[YouTube]](https://youtu.be/uZkEi9Y2dj4)
 
+:heavy_check_mark: [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning] [[Paper]](https://arxiv.org/abs/1901.00212)[[Code]](https://github.com/knazeri/edge-connect)
+
 ## Re-identification
 
 :heavy_check_mark: [Pose-Normalized Image Generation for Person Re-identification] [[Paper]](https://arxiv.org/abs/1712.02225)[[Code]](https://github.com/naiq/PN_GAN)(ECCV 2018)
@@ -160,6 +242,10 @@ First paper
 
 :heavy_check_mark: [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection] [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)[[code]](https://github.com/xiaolonw/adversarial-frcnn)(CVPR2017)
 
+## Landmark Detection
+
+:heavy_check_mark: [Style aggregated network for facial landmark detection] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf)(CVPR 2018)
+
 ## Conditional Adversarial
 
 :heavy_check_mark: [Conditional Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1411.1784)[[Code]](https://github.com/zhangqianhui/Conditional-Gans)
@@ -188,65 +274,9 @@ First paper
 
 :heavy_check_mark: [Precomputed real-time texture synthesis with markovian generative adversarial networks] [[Paper]](https://arxiv.org/abs/1604.04382)[[Code]](https://github.com/chuanli11/MGANs)(ECCV 2016)
 
-# Image Translation
+## Makeup
 
-:heavy_check_mark: [UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION] [[Paper]](https://arxiv.org/abs/1611.02200)[[Code]](https://github.com/yunjey/domain-transfer-network)
-
-:heavy_check_mark: [Image-to-image translation using conditional adversarial nets] [[Paper]](https://arxiv.org/pdf/1611.07004v1.pdf)[[Code]](https://github.com/phillipi/pix2pix)[[Code]](https://github.com/yenchenlin/pix2pix-tensorflow)
-
-:heavy_check_mark: [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.05192)[[Code]](https://github.com/carpedm20/DiscoGAN-pytorch)
-
-:heavy_check_mark: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks] [[Paper]](https://junyanz.github.io/CycleGAN/)[[Code]](https://github.com/junyanz/CycleGAN)
-
-:heavy_check_mark: [CoGAN: Coupled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1606.07536)[[Code]](https://github.com/andrewliao11/CoGAN-tensorflow)(NIPS 2016)
-
-:heavy_check_mark: [Unsupervised Image-to-Image Translation with Generative Adversarial Networks] [[Paper]](https://arxiv.org/pdf/1701.02676.pdf)(NIPS 2017)
-
-:heavy_check_mark: [Unsupervised Image-to-Image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)
-
-:heavy_check_mark: [Triangle Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1709.06548)
-
-:heavy_check_mark: [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs] [[Paper]](https://arxiv.org/abs/1711.11585)[[code]](https://github.com/NVIDIA/pix2pixHD)
-
-:heavy_check_mark: [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings] [[Paper]](https://arxiv.org/abs/1711.05139)(Reviewed)
-
-:heavy_check_mark: [UNIT: UNsupervised Image-to-image Translation Networks] [[Paper]](https://arxiv.org/abs/1703.00848)[[Code]](https://github.com/mingyuliutw/UNIT)(NIPS 2017)
-
-:heavy_check_mark: [Toward Multimodal Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.11586)[[Code]](https://github.com/junyanz/BicycleGAN)(NIPS 2017)
-
-:heavy_check_mark: [Multimodal Unsupervised Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1804.04732)[[Code]](https://github.com/nvlabs/MUNIt)
-
-:heavy_check_mark: [Video-to-Video Synthesis] [[Paper]](https://tcwang0509.github.io/vid2vid/)[[Code]](https://github.com/NVIDIA/vid2vid)
-
-## Facial Attribute Manipulation
-
-:heavy_check_mark: [Autoencoding beyond pixels using a learned similarity metric] [[Paper]](https://arxiv.org/abs/1512.09300)[[code]](https://github.com/andersbll/autoencoding_beyond_pixels)[[Tensorflow code]](https://github.com/zhangqianhui/vae-gan-tensorflow)
-
-:heavy_check_mark: [Coupled Generative Adversarial Networks] [[Paper]](http://mingyuliu.net/)[[Caffe Code]](https://github.com/mingyuliutw/CoGAN)[[Tensorflow Code]](https://github.com/andrewliao11/CoGAN-tensorflow)（NIPS）
-
-:heavy_check_mark: [Invertible Conditional GANs for image editing] [[Paper]](https://drive.google.com/file/d/0B48XS5sLi1OlRkRIbkZWUmdoQmM/view)[[Code]](https://github.com/Guim3/IcGAN)
-
-:heavy_check_mark: [Learning Residual Images for Face Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1612.05363)[[code]](https://github.com/Zhongdao/FaceAttributeManipulation)(CVPR 2017)
-
-:heavy_check_mark: [Neural Photo Editing with Introspective Adversarial Networks] [[Paper]](https://arxiv.org/abs/1609.07093)[[Code]](https://github.com/ajbrock/Neural-Photo-Editor)(ICLR 2017)
-
-:heavy_check_mark: [Neural Face Editing with Intrinsic Image Disentangling] [[Paper]](https://arxiv.org/abs/1704.04131)(CVPR 2017)
-
-:heavy_check_mark: [GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data ] [[Paper]](https://arxiv.org/abs/1705.04932)[[code]](https://github.com/Prinsphield/GeneGAN)(BMVC 2017)
-
-:heavy_check_mark: [ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks] [[Paper]](http://proceedings.mlr.press/v77/zhang17c.html)
-
-:heavy_check_mark: [Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis] [[Paper]](https://arxiv.org/abs/1704.04086)(ICCV 2017)
-
-:heavy_check_mark: [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation] [[Paper]](https://arxiv.org/abs/1711.09020)[[code]](https://github.com/yunjey/StarGAN)(CVPR 2018)
-
-:heavy_check_mark: [Arbitrary Facial Attribute Editing: Only Change What You Want] [[Paper]](https://arxiv.org/abs/1711.10678)[[code]](https://github.com/LynnHo/AttGAN-Tensorflow)
-
-:heavy_check_mark: [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes] [[Paper]](https://arxiv.org/abs/1803.10562)[[code]](https://github.com/Prinsphield/ELEGANT)(ECCV 2018)
-
-:heavy_check_mark: [Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation] [[Paper]](https://arxiv.org/abs/1805.07509)[[code]](https://github.com/zhangqianhui/Sparsely-Grouped-GAN)(ACM MM2018 oral)
-
-:heavy_check_mark: [GANimation: Anatomically-aware Facial Animation from a Single Image] [[Paper]](http://www.albertpumarola.com/research/GANimation/index.html)[[code]](https://github.com/albertpumarola/GANimation)(ECCV 2018 oral)
+:heavy_check_mark: [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network] [[Paper]](https://dl.acm.org/citation.cfm?id=3240618)(ACMMM 2018)
 
 ## Reinforcement learning
 
